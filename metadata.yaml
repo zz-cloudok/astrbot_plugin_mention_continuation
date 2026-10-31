@@ -1,4 +1,13 @@
 name: mention_continuation
+display_name: 单独 @ 上下文承接
 desc: 单独 @ 机器人后短暂等待补充内容，并把补充消息、近期群聊上下文和近期图片带入一次请求。
 author: 千鸟
+repo: https://github.com/zz-cloudok/astrbot_plugin_mention_continuation
 version: 1.5.0
+astrbot_version: ">=4.0.0"
+social_link: https://github.com/zz-cloudok
+tags:
+  - 群聊
+  - 单独艾特
+  - 上下文承接
+  - mention
