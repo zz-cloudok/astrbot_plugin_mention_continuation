@@ -1,0 +1,4 @@
+name: mention_continuation
+desc: 单独 @ 机器人后短暂等待补充内容，并把补充消息、近期群聊上下文和近期图片带入一次请求。
+author: 千鸟
+version: 1.5.0
